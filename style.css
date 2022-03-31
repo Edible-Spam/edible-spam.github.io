@@ -33,9 +33,9 @@ body {
 }
 
 span.logo {
-  width: 140px;
-  height: 140px;
-  background-image: url(logo.png);
+  width: 366px;
+  height: 500px;
+  background-image: url(IMG_1579.JPG);
   display: block;
   position: relative;
   text-indent: 100%;
@@ -68,8 +68,8 @@ p:first-of-type {
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5) {
     
   span.logo {
-    background-image: url(logo@2x.png);
-    background-size: 140px 140px;
+    background-image: url(IMG_1579.JPG);
+    background-size: 500px 366px;
   }
   
 }
