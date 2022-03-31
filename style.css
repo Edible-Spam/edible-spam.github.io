@@ -33,8 +33,8 @@ body {
 }
 
 span.logo {
-  width: 366px;
-  height: 500px;
+  width: 500px;
+  height: 366px;
   background-image: url(IMG_1579.JPG);
   display: block;
   position: relative;
